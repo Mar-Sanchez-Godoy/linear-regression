@@ -1,4 +1,4 @@
-Predicción con modelo Machine Learnign - IA de precio promedio m2 en Madrid
+Modelo Machine Learnign - IA
 
 # 📊 Linear Regression - Time Series Predictor
 
