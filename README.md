@@ -1,10 +1,10 @@
-Modelo Machine Learnign - IA
+# Pueba de Agente de GutHub en la creación de un Modelo Machine Learnign #
 
-# 📊 Linear Regression - Time Series Predictor
+## 📊 Linear Regression - Time Series Predictor ##
 
 Un sistema completo de **regresión lineal** para organizar, limpiar y predecir series de tiempo de forma automática.
 
-## ✨ Características
+## ✨ Características ##
 
 ✅ **Organización automática** de datos con fecha y valores  
 ✅ **Limpieza inteligente** de datos (valores nulos, duplicados)  
@@ -13,7 +13,7 @@ Un sistema completo de **regresión lineal** para organizar, limpiar y predecir 
 ✅ **Consulta de resultados** en formato JSON  
 ✅ **Visualización** de datos históricos y predicciones  
 
-## 📦 Requisitos
+## 📦 Requisitos ##
 
 - Python 3.8+
 - pandas
