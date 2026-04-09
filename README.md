@@ -1,4 +1,4 @@
-# Pueba de Agente de GutHub en la creación de un Modelo Machine Learnign #
+# Prueba de Agente de GutHub en la creación de un Modelo Machine Learnign #
 
 ## 📊 Linear Regression - Time Series Predictor ##
 
