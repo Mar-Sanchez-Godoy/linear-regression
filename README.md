@@ -1,19 +1,16 @@
-# Prueba de Agente GitHub en la creación de un modelo Machine Learnign #
+GitHub Agent Test in the Creation of a Machine Learning Model
+📊 Linear Regression – Time Series Predictor
+A complete linear regression system to automatically organize, clean, and predict time series data.
 
-## 📊 Linear Regression - Time Series Predictor ##
+✨ Features
+✅ Automatic organization of date–value datasets
+✅ Smart data cleaning (null values, duplicates)
+✅ Trained and evaluated linear regression model
+✅ Predictions for the next 3 periods
+✅ Result queries in JSON format
+✅ Visualization of historical data and predictions
 
-Un sistema completo de **regresión lineal** para organizar, limpiar y predecir series de tiempo de forma automática.
-
-## ✨ Características ##
-
-✅ **Organización automática** de datos con fecha y valores  
-✅ **Limpieza inteligente** de datos (valores nulos, duplicados)  
-✅ **Regresión lineal** entrenada y evaluada  
-✅ **Predicciones** para los próximos 3 períodos  
-✅ **Consulta de resultados** en formato JSON  
-✅ **Visualización** de datos históricos y predicciones  
-
-## 📦 Requisitos ##
+📦 Requirements
 
 - Python 3.8+
 - pandas
@@ -21,7 +18,7 @@ Un sistema completo de **regresión lineal** para organizar, limpiar y predecir 
 - scikit-learn
 - matplotlib
 
-## 🚀 Instalación
+## 🚀 Instalation
 
 ```bash
 # Clonar repositorio
